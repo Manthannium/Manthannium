@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Manthan Patel
+- ![profile_counter](https://profile-counter.glitch.me/{Manthannium}/count.svg)
 - 📚 I'm student of Mathematics and Computing
 - 🧀 I’m interested in Programming and Data science 
 
